@@ -1,0 +1,30 @@
+{
+  "name": "datum",
+  "version": "0.1.0",
+  "description": "Collection of date-related abstractions",
+  "main": "datum.js",
+  "scripts": {
+    "test": "jest",
+    "start": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxbunny/datum.git"
+  },
+  "keywords": [
+    "date",
+    "calendar",
+    "data",
+    "structures"
+  ],
+  "author": "Hajime Yamasaki Vukelic <hayavuk@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foxbunny/datum/issues"
+  },
+  "homepage": "https://github.com/foxbunny/datum#readme",
+  "devDependencies": {
+    "jest": "^18.1.0",
+    "jslint": "^0.10.3"
+  }
+}
