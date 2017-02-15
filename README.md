@@ -9,6 +9,8 @@ abstractions for working with dates, and related concepts (e.g., weeks, months).
 This library can be used for many things but it was mainly developed as a
 building block for calendars and datepickers.
 
+[![Build Status](https://travis-ci.org/foxbunny/datum.svg?branch=master)](https://travis-ci.org/foxbunny/datum)
+
 ## Working with weeks
 
 The `datum.Week` constructor is used to create `Week` object which represent a
